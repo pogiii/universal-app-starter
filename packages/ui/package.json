@@ -10,7 +10,16 @@
     "@rn-primitives/types": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "react-native-web": "~0.19.10",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "module-alias": "^2.2.3",
+    "@types/react-native-web": "^0.19.0"
+  },
+  "_moduleAliases": {
+    "react-native": "react-native-web",
+    "~": "."
   }
 }
