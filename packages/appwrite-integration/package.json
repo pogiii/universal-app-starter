@@ -1,7 +1,0 @@
-{
-  "name": "appwrite-intergration",
-  "version": "1.0.0",
-  "description": "appwrite crossplatform",
-  "main": "index.ts",
-  "license": "MIT"
-}
